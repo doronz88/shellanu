@@ -1,0 +1,28 @@
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.o
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+shell
+
+# macOS shit
+.DS_Store
+
+# ide files
+.vscode
+.idea
