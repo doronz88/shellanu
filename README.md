@@ -3,7 +3,7 @@
 ## Description
 
 Based on the shell created by [@ImaginationZ](https://github.com/ImaginationZ) (can be found [here](https://github.com/ImaginationZ/Shell)).
-This shell doesn't use any calls to `fork()` syscall (instead it uses the `posix_spawn`) and has been optimized to work on Darwin systems (but tested also on Linux).
+This shell has been optimized to work on Darwin systems (but tested also on Linux).
 
 ## Building and running
 
