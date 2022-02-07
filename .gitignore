@@ -19,7 +19,12 @@
 *.x86_64
 *.hex
 shell
+
+# Lexing related
 lemon
+shellparser.c
+shellparser.h
+shellscanner.h
 
 # macOS shit
 .DS_Store
